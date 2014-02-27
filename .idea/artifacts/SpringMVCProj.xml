@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVCProj">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVCProj</output-path>
+    <root id="archive" name="SpringMVCProj.war" />
+  </artifact>
+</component>
